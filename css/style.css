@@ -1,0 +1,53 @@
+body {
+    background-color: #000;
+    color: #e6e6e6;
+    font-family: Tahoma,Arial,sans-serif;
+}
+
+.wrapper {
+    width: 820px;
+    margin: 0 auto;
+    padding: 50px 70px 0;
+    background: url('../img/bck.jpg') no-repeat;
+}
+
+.header {
+    height: 152px;
+    background: url('../img/logo.png') no-repeat 0 7px;
+}
+
+.slogan {
+    margin-top: 128px;
+    margin-left: 85px;
+    float: left;
+    font-size: 11px;
+}
+
+.contact {
+    padding-top: 30px;
+    float: right;
+}
+
+.contact p {
+    padding-top: 70px;
+    padding-right: 15px;
+    font-size: 10px;
+    line-height: 1.3em;
+}
+
+.content div {
+    display: inline-block;
+}
+
+.content h2 {
+    margin-bottom: 45px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.footer {
+    padding-top: 140px;
+    padding-bottom: 50px;
+    font-size: 10px;
+    text-align: center;
+}
